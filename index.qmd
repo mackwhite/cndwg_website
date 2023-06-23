@@ -2,7 +2,13 @@
 title: "Marine Consumer Nutrient Dynamics LTER Synthesis Working Group"
 ---
 
-### **Consumer-mediated nutrient dynamics of marine ecosystems under the wake of global change**
+[**Project Title**]{.underline}: Consumer-mediated nutrient dynamics of marine ecosystems under the wake of global change
+
+[**Funding**]{.underline}: National Science Foundation Long Term Ecological Research Synthesis Grant
+
+[**Principal Investigators**]{.underline}: Joey Peters, Mack White, Bradley Strickland, Jennifer Rehage
+
+[![Marine Consumer Nutrient Dynamics LTER Synthesis Working Group aims to address questions at broad spatiotemporal scales using long term population data from a number of different ecosystems](cndwg_website_photosplusfigs.png){fig-alt="Mack White" fig-align="center"}](https://lternet.edu/working-groups/marine-consumer-nutrient-dynamics/)
 
 Increases in the frequency and severity of disturbance events as a result of global change are altering population and community dynamics of marine animals. Given that animals are key recyclers of nutrients in many ecosystems, these ecological impacts may have consequences for ecosystem function. Consumer-mediated nutrient dynamics (CND) are an integral part of biogeochemical cycles, but to-date long-term studies are lacking. Without long-term data across large spatial scales, it is difficult to predict how ecosystems will respond to disturbances. The synthesis group plans to estimate CND over broad spatiotemporal scales by integrating empirical models of consumer nutrient excretion and egestion with time-series of consumer populations across ten marine and coastal LTER sites. They will address two main objectives:
 
