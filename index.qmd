@@ -6,7 +6,7 @@ title: "Marine Consumer Nutrient Dynamics LTER Synthesis Working Group"
 
 [**Funding**]{.underline}: National Science Foundation Long Term Ecological Research Synthesis Grant
 
-[**Principal Investigators**]{.underline}: Joey Peters, Mack White, Bradley Strickland, Jennifer Rehage
+[**Principal Investigators**]{.underline}: Mack White, Bradley Strickland, Jennifer Rehage, Deron Burkepile, Joey Peters
 
 [![Marine Consumer Nutrient Dynamics LTER Synthesis Working Group aims to address questions at broad spatiotemporal scales using long term population data from a number of different ecosystems](cndwg_website_photosplusfigs.png){fig-alt="Mack White" fig-align="center"}](https://lternet.edu/working-groups/marine-consumer-nutrient-dynamics/)
 
