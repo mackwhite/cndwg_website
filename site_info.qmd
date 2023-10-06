@@ -3,4 +3,59 @@ title: "Site Information"
 editor: visual
 ---
 
-place site information here
+### Interactive Site Map
+
+```{r}
+#| warning: false
+#| echo: false
+#| message: false
+#| include: false
+library(readr)
+library(tidyverse)
+library(leaflet)
+library(DT)
+sites <- read_csv("data/LTER_Site_Coords_w_information.csv")
+```
+
+```{r}
+#| warning: false
+#| echo: false
+#| message: false
+
+leaflet(sites) %>%
+    addWMSTiles(
+        "https://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer",
+        layers = "0",
+        options = WMSTileOptions(format = "image/png", transparent = TRUE)) %>%
+    addCircleMarkers(
+        lng = ~ Longitude,
+        lat = ~ Latitude,
+        label = ~ Site,
+        radius = 7,
+        # set fill properties
+        fillColor = "salmon",
+        fillOpacity = 1,
+        # set stroke properties
+        stroke = T,
+        weight = 1.0,
+        color = "white",
+        opacity = 1)
+```
+
+*\*Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) includes numerous long-term monitoring sites along portions of the southern, central and northern coast of California and southern Oregon, USA*
+
+### Interactive Site Information Table
+
+```{r}
+#| warning: false
+#| echo: false
+#| message: false
+
+DT::datatable((sites), 
+              rownames = FALSE,
+              ) |> 
+      formatStyle(c('Site', "Type", 'Latitude',
+                    'Longitude', 'Biome', 
+                    'site_link', 'data_link'),
+                  backgroundColor = '#358856')
+```

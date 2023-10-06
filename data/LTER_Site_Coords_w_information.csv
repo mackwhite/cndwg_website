@@ -1,0 +1,11 @@
+﻿Site,Type,Latitude,Longitude,Biome,site_link,data_link
+CCE,Marine,32.8736,-120.28,Marine,https://ccelter.ucsd.edu/,https://oceaninformatics.ucsd.edu/datazoo/catalogs/ccelter/datasets
+FCE,Coastal,25.4682,-80.8533,Freshwater Marsh/Estuary,https://fcelter.fiu.edu/,https://fce-lter.fiu.edu/data/core/
+GCE,Coastal,31.427,-81.371,Salt Marsh/Estuary,https://gce-lter.marsci.uga.edu/,https://gce-lter.marsci.uga.edu/public/app/data_catalog.asp
+MCR,Marine,-17.4909,-149.826,Coral Reef,http://mcr.lternet.edu/,https://mcrlter.msi.ucsb.edu/data/core_signature/display_listPkgsByCoreArea.php?activity_id=all_CA
+NES,Marine,40.6967,-70.8833,Marine,https://nes-lter.whoi.edu/,https://www.zotero.org/groups/2124507/lter-nes/collections/4UQ6BERB
+NGA,Marine,59.045,-148.7,Subarctic Marine,https://nga.lternet.edu/,https://search.dataone.org/portals/NGALTER/About-the-Data-Catalog
+PIE,Coastal,42.759,-70.891,Estuary,https://pie-lter.ecosystems.mbl.edu/welcome-plum-island-ecosystems-lter,https://pie-lter.ecosystems.mbl.edu/data/data-catalog
+SBC,Coastal,34.4125,-119.842,Semiarid Coastal and Marine,https://sbclter.msi.ucsb.edu/,https://sbclter.msi.ucsb.edu/data/catalog/
+VCR,Coastal,37.283,-75.913,Barrier Island/Lagoon,https://www.vcrlter.virginia.edu/home2/,http://www.vcrlter.virginia.edu/cgi-bin/browseData.cgi
+PISCO,Coastal,38.474085,-123.248485,Rocky Intertidal & Kelp Forest,https://www.piscoweb.org/index.php/,https://www.piscoweb.org/find-pisco-dataone
