@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - members.qmd
       - site_info.qmd
       - auth_agreement.qmd
       - data_agreement.qmd
