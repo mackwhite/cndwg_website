@@ -7,5 +7,11 @@
   },
   "Authorship.qmd": {
     "Authorship.html": "db18bd74"
+  },
+  "auth_agreement.qmd": {
+    "auth_agreement.html": "09725e63"
+  },
+  "data_agreement.qmd": {
+    "data_agreement.html": "402e457b"
   }
 }

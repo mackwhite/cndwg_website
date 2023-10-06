@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Authorship.qmd
-      - about.qmd
+      - auth_agreement.qmd
+      - data_agreement.qmd
 
 format:
   html:
