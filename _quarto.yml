@@ -10,6 +10,7 @@ website:
         text: Home
       - members.qmd
       - site_info.qmd
+      - synthesis_workflow.qmd
       - auth_agreement.qmd
       - data_agreement.qmd
 

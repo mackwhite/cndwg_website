@@ -3,4 +3,4 @@ title: "Synthesis Team"
 editor: visual
 ---
 
-place some stuff here
+### ***Coming Soon!***
